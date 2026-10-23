@@ -70,3 +70,8 @@
 <div align="center">
   <em>⚡ "Building digital experiences with clean code and creative design."</em>
 </div>
+<br>
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer Wave">
+</div>
