@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Fiza Khalil Hero Banner">
+<img src="./assets/hero.svg" width="100%" alt="Fiza Khalil Hero Banner">
 
 ### ✨ Full-Stack Developer & MERN Stack Specialist ✨
 
@@ -36,11 +36,11 @@
 
 ### 💼 Featured Projects & Experience
 
-* **Parallax Labs Collaboration SaaS (2026):** Developed real-time collaboration features using Yjs CRDTs, WebSockets, and Redis caching for a SaaS booking platform.
-* **AI Resume Screening (2026):** Built a machine learning text-classification project in Jupyter Notebook using Python models trained on dataset records (`UpdatedResumeDataSet.csv`).
-* **Face Recognition Secure Vault (2026):** Engineered a Python-based Information Security semester project focusing on biometric authentication and secure data vaults.
-* **Frontend Developer Internship - CodeAlpha (2025):** Constructed responsive web applications including an interactive portfolio, image gallery, and food ordering website.
-* **E-commerce & Landing Pages:** Founded **Ezhan Wears** and designed production landing pages for **Trading Movers** and **MU Trader** (`mutrader.com`).
+- **Parallax Labs Collaboration SaaS (2026):** Developed real-time collaboration features using Yjs CRDTs, WebSockets, and Redis caching for a SaaS booking platform.
+- **AI Resume Screening (2026):** Built a machine learning text-classification project in Jupyter Notebook using Python models trained on dataset records (`UpdatedResumeDataSet.csv`).
+- **Face Recognition Secure Vault (2026):** Engineered a Python-based Information Security semester project focusing on biometric authentication and secure data vaults.
+- **Frontend Developer Internship - CodeAlpha (2025):** Constructed responsive web applications including an interactive portfolio, image gallery, and food ordering website.
+- **E-commerce & Landing Pages:** Founded **Ezhan Wears** and designed production landing pages for **Trading Movers** and **MU Trader** (`mutrader.com`).
 
 ---
 
@@ -70,6 +70,9 @@
 <div align="center">
   <em>⚡ "Building digital experiences with clean code and creative design."</em>
 </div>
+
 <br>
 
-<img src="https://raw.githubusercontent.com/Fizakhan10/Fizakhan10/main/assets/footer.svg" width="100%" alt="Footer Wave">
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer Wave">
+</div>
