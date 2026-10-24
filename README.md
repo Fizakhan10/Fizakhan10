@@ -75,6 +75,8 @@
 
 <br>
 
+<br>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fizakhan10/Fizakhan10/main/assets/footer.svg" width="100%" alt="Footer Wave">
+  <img src="assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
